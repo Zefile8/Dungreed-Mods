@@ -1,4 +1,5 @@
-DreamGreed mod, for when you want to get a really lucky run
+DreamGreed mod, for when you want to get a really lucky run!
+
 now with:
 -never gerbera
 -better daisy
