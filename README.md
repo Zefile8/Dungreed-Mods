@@ -1,2 +1,3 @@
 # Dungreed-Mods
-a repository for Dungreed mods
+A repository for Dungreed mods
+Feel free to contribute
