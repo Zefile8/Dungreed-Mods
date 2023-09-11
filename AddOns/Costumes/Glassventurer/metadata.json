@@ -21,8 +21,8 @@
   "description_portuguese": "Caution: fragile.",
 
   "stats": [
-    "FINALATK_PERCENT/140",
-    "HP_PERCENT/-100"
+    "FINALATK_PERCENT/160",
+    "HP_PERCENT/-500"
   ],
 
   "filename_icon": "Icon",
