@@ -72,8 +72,8 @@
   },
 
   "die": {
-    "scene": 10,
-    "fps": 6,
+    "scene": 11,
+    "fps": 7,
     "filename": "CharDie",
     "ppu": 16,
     "pivot": {
