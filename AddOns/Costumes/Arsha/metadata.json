@@ -1,0 +1,87 @@
+{
+  "id": 1000,
+
+  "name_korean": "Arsha",
+  "description_korean": "Very frail, but can shoot extra shots and has a small shield.",
+  "name_english": "Arsha",
+  "description_english": "Very frail, but can shoot extra shots and has a small shield.",
+  "name_japanese": "Arsha",
+  "description_japanese": "Very frail, but can shoot extra shots and has a small shield.",
+  "name_simplified_chinese": "Arsha",
+  "description_simplified_chinese": "Very frail, but can shoot extra shots and has a small shield.",
+  "name_traditional_chinese": "Arsha",
+  "description_traditional_chinese": "Very frail, but can shoot extra shots and has a small shield.",
+  "name_russian": "Arsha",
+  "description_russian": "Very frail, but can shoot extra shots and has a small shield.",
+  "name_spanish": "Arsha",
+  "description_spanish": "Very frail, but can shoot extra shots and has a small shield.",
+  "name_german": "Arsha",
+  "description_german": "Very frail, but can shoot extra shots and has a small shield.",
+  "name_portuguese": "Arsha",
+  "description_portuguese": "Very frail, but can shoot extra shots and has a small shield.",
+
+  "stats": [
+    "SPREAD_SHOT/2",
+    "PRECISION/-30",
+    "PROTECTIONSHIELD/8",
+    "HP_PERCENT/-50"
+  ],
+
+  "filename_icon": "Icon",
+
+  "filename_hand": "CharHand",
+  "ppu_hand": 16,
+  "pivot_hand": {
+    "x": 0.5,
+    "y": 0.5
+  },
+
+  "idle": {
+    "scene": 5,
+    "fps": 10,
+    "filename": "CharIdle",
+    "ppu": 16,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.25
+    }
+  },
+
+  "run": {
+    "scene": 6,
+    "fps": 20,
+    "filename": "CharIdle",
+    "ppu": 16,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.25
+    }
+  },
+
+  "runFootstepFrame": [
+    0,
+    3
+  ],
+
+  "jump": {
+    "scene": 1,
+    "fps": 1,
+    "filename": "CharIdle",
+    "ppu": 16,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.25
+    }
+  },
+
+  "die": {
+    "scene": 16,
+    "fps": 10,
+    "filename": "CharDie",
+    "ppu": 16,
+    "pivot": {
+      "x": 0.5,
+      "y": 0
+    }
+  }
+}
