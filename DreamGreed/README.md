@@ -14,3 +14,4 @@ now with:
 
 known issues:
 - red foods do not spawn
+- broken as of 1.7.1
