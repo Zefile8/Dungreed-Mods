@@ -13,5 +13,4 @@ now with:
 - plague doctor max heal
 
 known issues:
-- red foods do not spawn
-- broken as of 1.7.1
+- none currently
