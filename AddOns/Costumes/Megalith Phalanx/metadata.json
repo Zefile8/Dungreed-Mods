@@ -1,0 +1,90 @@
+{
+  "id": 1001,
+
+  "name_korean": "Megalith Phalanx",
+  "description_korean": "There's something eerie about this statue...",
+  "name_english": "Megalith Phalanx",
+  "description_english": "There's something eerie about this statue...",
+  "name_japanese": "Megalith Phalanx",
+  "description_japanese": "There's something eerie about this statue...",
+  "name_simplified_chinese": "Megalith Phalanx",
+  "description_simplified_chinese": "There's something eerie about this statue...",
+  "name_traditional_chinese": "Megalith Phalanx",
+  "description_traditional_chinese": "There's something eerie about this statue...",
+  "name_russian": "Megalith Phalanx",
+  "description_russian": "There's something eerie about this statue...",
+  "name_spanish": "Megalith Phalanx",
+  "description_spanish": "There's something eerie about this statue...",
+  "name_german": "Megalith Phalanx",
+  "description_german": "There's something eerie about this statue...",
+  "name_portuguese": "Megalith Phalanx",
+  "description_portuguese": "There's something eerie about this statue...",
+
+  "stats": [
+    "MOVE_SPEED/-100",
+    "ATTACK_SPEED/-212",
+    "JUMP_POWER/-12",
+    "DEFENSE/12",
+    "DASH_ATTACK_DAMAGE/21?SPEAR",
+    "DASH_TACKLE",
+    "DASH_RESTORE_SPEED/121"
+  ],
+
+  "filename_icon": "StatueIdle0",
+
+  "filename_hand": "StatueHand",
+  "ppu_hand": 16,
+  "pivot_hand": {
+    "x": 0.5,
+    "y": 0.5
+  },
+
+  "idle": {
+    "scene": 1,
+    "fps": 10,
+    "filename": "StatueIdle",
+    "ppu": 16,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.20
+    }
+  },
+
+  "run": {
+    "scene": 1,
+    "fps": 20,
+    "filename": "StatueIdle",
+    "ppu": 16,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.20
+    }
+  },
+
+  "runFootstepFrame": [
+    0,
+    3
+  ],
+
+  "jump": {
+    "scene": 1,
+    "fps": 1,
+    "filename": "StatueIdle",
+    "ppu": 16,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.20
+    }
+  },
+
+  "die": {
+    "scene": 1,
+    "fps": 1,
+    "filename": "StatueDie",
+    "ppu": 16,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.20
+    }
+  }
+}
