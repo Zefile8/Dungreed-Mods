@@ -7,3 +7,7 @@ How to install mods:
 - Run Dungreed, check if the Dungreed\BepInEx\plugins folder is created.
 - Put MMHOOK_Dungreed.dll in the plugins folder.
 - Put any mods you want into the plugins folder.
+
+How to install characters:
+- Under Dungreed\Dungreed_Data, create the AddOns/Costumes folders.
+- Drag and drop whichever character you want's folder into Costumes.
